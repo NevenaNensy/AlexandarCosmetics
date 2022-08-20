@@ -1,6 +1,6 @@
 # alecsandarcosmetics
 
-This project is made for my first QA testing project. 
+This project is made for my first QA testing portfolio. 
 For this project, I used the website Alexandar cosmetics. 
 I tested the Functionality with the tool selenium webdriver. 
 In this project, I used Python Programming Language.
