@@ -12,3 +12,13 @@ I tested several cases, Home page, Login page and Online shop, which are the mos
 
 At the end of one test case, I used assert statement and if statement.
 
+
+The plan is to test the most critical cases of this site. That include:
+
+• Home page
+• Log-in page
+• Register of the new users
+• Online shop
+In every test case, there will be a try to execute a specific process, without complete data or with data which don't is corresponding.
+
+
